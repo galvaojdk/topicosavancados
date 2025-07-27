@@ -1,0 +1,5 @@
+curso Engenharia de dados - unifor
+
+alunos:
+ricardo deivid galvão teixeira
+valternandes 
